@@ -1,4 +1,4 @@
-package I.Input_Output_Streams;
+package FileHandling;
 
 import java.io.FileWriter;
 import java.io.IOException;
